@@ -60,3 +60,4 @@ sh 'docker ps --filter "name=teedy-container"'
         } 
     } 
 } 
+}
